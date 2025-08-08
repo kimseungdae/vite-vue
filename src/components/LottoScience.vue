@@ -1062,6 +1062,7 @@
     line-height: 1.4;
     overflow-y: auto;
     max-height: 400px;
+    text-align: left;
   }
   
   .result-numbers {
